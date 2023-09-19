@@ -1,5 +1,5 @@
 {
-  "name": "@viguen/use-sync-external-store",
+  "name": "use-sync-external-store",
   "private": false,
   "version": "0.0.1",
   "type": "module",
