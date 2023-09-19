@@ -1,0 +1,16 @@
+/node_modules
+/dist
+npm-debug.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+.eslintcache
+package-lock.json
+node_modules_bak
+*.d.ts
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
