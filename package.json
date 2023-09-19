@@ -1,5 +1,5 @@
 {
-  "name": "use-sync-external-store",
+  "name": "use-synced-external-store",
   "private": false,
   "version": "0.0.1",
   "type": "module",
