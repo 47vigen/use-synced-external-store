@@ -19,7 +19,7 @@ export function useSyncedExternalStore<
     };
   }, [storage]);
 
-  const snapshot = useSyncExternalStore(subscribe, getSnapshot);
+  const snapshot = useSyncExternalStore(subscribe, getSnapshot, getSnapshot);
 
   return [snapshot, subscribe] as const;
 }

@@ -28,6 +28,6 @@
     }
   },
   "exclude": ["dist"],
-  "include": ["lib", "vite.config.ts", "package.json"],
+  "include": ["lib", "package.json"],
   "references": [{"path": "./tsconfig.node.json"}]
 }
